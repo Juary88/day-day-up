@@ -163,4 +163,51 @@ day-day-up
 ###
 https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=100000600&idx=1&sn=a94872004daaafadcba76600893e35ef&chksm=7b39a6534c4e2f4551b800f3f27115c9d95fb612c107c589ec0436aedd85ecfa9b630bd9f295%23rd
 >
-2 
+2 leetcode 121 Best Time to Buy and Sell Stock
+>
+第一种 时间超过
+>
+### 对于从第一天后的每一天i来说：
+
+    如果我们在第i天卖出，则能赚的钱是在第i-1卖能赚到的钱+（第i天的股价 - 第i-1的股价）
+    如果我们在第i天不卖出，则当前赚的钱为 0
+>
+###
+
+    class Solution:
+        def maxProfit(self, prices):
+            """
+            :type prices: List[int]
+            :rtype: int
+            """
+            p = 0
+            for i in range(len(prices)):
+                for j in range(i,len(prices)):
+                    if prices[j] - prices[i] > p:
+                        p = prices[j] - prices[i]
+            return p
+
+      def maxProfit(self, prices):
+          """
+          :type prices: List[int]
+          :rtype: int
+          """
+          if not prices or len(prices) == 0:
+              return 0
+          opt = [0] * len(prices)
+          for i in range(1, len(prices)):
+              opt[i] = max(opt[i-1]+prices[i]-prices[i-1], 0)
+          return max(opt)
+
+      def maxProfit(self, prices):
+          """
+          :type prices: List[int]
+          :rtype: int
+          """
+          if not prices or len(prices) == 0:
+              return 0
+          res, max_cur = 0, 0
+          for i in range(1, len(prices)):
+              max_cur = max(0, max_cur+prices[i]-prices[i-1]) 
+              res = max(res, max_cur)
+          return res
