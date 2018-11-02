@@ -160,6 +160,7 @@ day-day-up
 >
 1 logistic回归含义后验概率分布，用概率的角度去设计类然函数，logistic模型相比于感知机模型对异常数据具有更好的鲁棒性
 >
-###https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=100000600&idx=1&sn=a94872004daaafadcba76600893e35ef&chksm=7b39a6534c4e2f4551b800f3f27115c9d95fb612c107c589ec0436aedd85ecfa9b630bd9f295%23rd
+###
+https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=100000600&idx=1&sn=a94872004daaafadcba76600893e35ef&chksm=7b39a6534c4e2f4551b800f3f27115c9d95fb612c107c589ec0436aedd85ecfa9b630bd9f295%23rd
 >
 2 
