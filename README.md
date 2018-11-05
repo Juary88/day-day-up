@@ -226,4 +226,14 @@ day-day-up
         for i in range(2,len(cost) + 1):
             dp[i] = min(dp[i - 2] + cost[i - 2],dp[i - 1] + cost[i - 1])
         return dp[len(cost)]
-
+ >
+ 2 机器学习面试题目
+ >
+ ###
+      假定特征 F1 可以取特定值：A、B、C、D、E 和 F，其代表着学生在大学所获得的评分。现在请答题：
+      1.在下面说法中哪一项是正确的？
+      A. 特征 F1 是名义变量（nominal variable）的一个实例。
+      B. 特征 F1 是有序变量（ordinal variable）的一个实例。
+      C. 该特征并不属于以上的分类。
+      D. 以上说法都正确。
+      答案为（B）：有序变量是一种在类别上有某些顺序的变量。例如，等级 A 就要比等级 B 所代表的成绩好一些。
