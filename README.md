@@ -211,3 +211,19 @@ day-day-up
               max_cur = max(0, max_cur+prices[i]-prices[i-1]) 
               res = max(res, max_cur)
           return res
+ 
+ # 11月2日
+ 1 leetcode Min Cost Climbing Stairs
+>
+###
+    class Solution:
+    def minCostClimbingStairs(self, cost):
+        """
+        :type cost: List[int]
+        :rtype: int
+        """
+        dp = [0] * (len(cost) + 1)
+        for i in range(2,len(cost) + 1):
+            dp[i] = min(dp[i - 2] + cost[i - 2],dp[i - 1] + cost[i - 1])
+        return dp[len(cost)]
+
