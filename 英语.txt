@@ -5,4 +5,5 @@
 5 snapshot 快照
 6 inclusive 包括的
 7 presiely 剛好
-8 
+8 automatic highlighting and contextual entity search 自动突出显示，上下文实体搜索
+9 
