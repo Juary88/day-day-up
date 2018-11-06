@@ -261,3 +261,8 @@ https://blog.csdn.net/on_1y/article/details/8640012#sec-10
 >
 ###
 https://blog.csdn.net/jiangpeng59/article/details/77533309
+>
+6 期望、方差、协方差
+>
+###
+https://blog.csdn.net/MissXy_/article/details/80705828
