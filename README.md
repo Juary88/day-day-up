@@ -272,3 +272,10 @@ https://blog.csdn.net/MissXy_/article/details/80705828
 >
 ###
 [深入理解线性回归算法（二）：正则项的详细分析](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247484149&idx=1&sn=c0b0a425eb081e125407d6cec418b144&chksm=fb39a7fecc4e2ee871972a8c54454172affa58dfb01b108c1c93983be4dffe0df9112479e612&token=1082697960&lang=zh_CN&scene=21#wechat_redirect)
+>
+2 感知机 
+>
+和李航的有点区别（损失函数构造不一样）
+>
+###
+[python感知机](https://github.com/basicv8vc/Python-Machine-Learning-zh/blob/master/第二章/机器学习分类算法.ipynb)
