@@ -268,4 +268,7 @@ https://blog.csdn.net/jiangpeng59/article/details/77533309
 https://blog.csdn.net/MissXy_/article/details/80705828
 
 # 11月7日
-1 
+1 模型复杂度
+>
+###
+[深入理解线性回归算法（二）：正则项的详细分析](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247484149&idx=1&sn=c0b0a425eb081e125407d6cec418b144&chksm=fb39a7fecc4e2ee871972a8c54454172affa58dfb01b108c1c93983be4dffe0df9112479e612&token=1082697960&lang=zh_CN&scene=21#wechat_redirect)
