@@ -279,3 +279,6 @@ https://blog.csdn.net/MissXy_/article/details/80705828
 >
 ###
 [python感知机](https://github.com/basicv8vc/Python-Machine-Learning-zh/blob/master/第二章/机器学习分类算法.ipynb)
+
+# 11月8日
+1 
