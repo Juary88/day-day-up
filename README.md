@@ -281,4 +281,48 @@ https://blog.csdn.net/MissXy_/article/details/80705828
 [python感知机](https://github.com/basicv8vc/Python-Machine-Learning-zh/blob/master/第二章/机器学习分类算法.ipynb)
 
 # 11月8日
-1 
+1.  Trim a Binary Search Tree(669)
+>
+###
+    这题做法有些取巧，并不是真正意义上在内存里面删除不符合区间的Node，只是将Node的指向进行的更改，大致思路：
+
+    每一层的Condition有三种：
+
+    root.val小于区间的lower bound L，则返回root.right subtree传上来的root，这里就变相的'删除'掉了当前root和所有root.left的node
+    root.val大于区间的upper bound R，则返回root.left subtree传上来的root
+    满足区间，则继续递归
+    当递归走到叶子节点的时候，我们向上返回root，这里return root的定义是：
+    返回给parent一个区间调整完以后的subtree
+
+###
+    # Definition for a binary tree node.
+    # class TreeNode:
+    #     def __init__(self, x):
+    #         self.val = x
+    #         self.left = None
+    #         self.right = None
+
+    class Solution(object):
+        def trimBST(self, root, L, R):
+            # 每一层的Condition
+            if root == None:
+                return root
+            if root.val > R:
+                return self.trimBST(root.left,L,R)
+            if root.val < L:
+                return self.trimBST(root.right,L,R)
+            # 再区间内，正常的Recursion
+            root.right = self.trimBST(root.right,L,R)
+            root.left = self.trimBST(root.left,L,R)
+
+            # 返回给parent一个区间调整完以后的subtree
+            return root
+ >
+ 2 python cumsum
+ >
+ ###
+ https://blog.csdn.net/banana1006034246/article/details/78841461
+ > 
+ 3 np.around 返回四舍五入后的值，可指定精度。
+ >
+ 4 时间序列几本模型
