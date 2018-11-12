@@ -335,3 +335,31 @@ https://blog.csdn.net/MissXy_/article/details/80705828
 >adf 检验数据平稳
 ###
 https://blog.csdn.net/weixin_42382211/article/details/81332431
+
+11月10日
+>
+
+###
+    1 Merge Two Binary Trees
+    # Definition for a binary tree node.
+    # class TreeNode:
+    #     def __init__(self, x):
+    #         self.val = x
+    #         self.left = None
+    #         self.right = None
+
+    class Solution:
+        def mergeTrees(self, t1, t2):
+            """
+            :type t1: TreeNode
+            :type t2: TreeNode
+            :rtype: TreeNode
+            """
+            if not t1 and not t2:
+                return None
+            if not t1 or not t2:
+                return t1 or t2
+            node = TreeNode(t1.val+t2.val)
+            node.left = self.mergeTrees(t1.left, t2.left)
+            node.right = self.mergeTrees(t1.right, t2.right)
+            return node    
