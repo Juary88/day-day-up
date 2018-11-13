@@ -388,3 +388,7 @@ https://blog.csdn.net/weixin_42382211/article/details/81332431
 ###
     array([[10, 10],
            [10, 10]])
+>
+3 pandas 删除数值的情况
+###
+    https://www.cnblogs.com/cocowool/p/8421997.html
