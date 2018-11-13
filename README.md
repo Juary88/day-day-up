@@ -382,3 +382,9 @@ https://blog.csdn.net/weixin_42382211/article/details/81332431
                 averages.append(sum(node.val for node in level) / len(level))
                 level = [kid for node in level for kid in (node.left, node.right) if kid]
             return averages
+>
+2 np.full((2, 2), 10)
+>
+###
+    array([[10, 10],
+           [10, 10]])
