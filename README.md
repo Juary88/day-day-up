@@ -336,7 +336,7 @@ https://blog.csdn.net/MissXy_/article/details/80705828
 ###
 https://blog.csdn.net/weixin_42382211/article/details/81332431
 
-11月10日
+# 11月10日
 >
 
 ###
@@ -362,4 +362,23 @@ https://blog.csdn.net/weixin_42382211/article/details/81332431
             node = TreeNode(t1.val+t2.val)
             node.left = self.mergeTrees(t1.left, t2.left)
             node.right = self.mergeTrees(t1.right, t2.right)
-            return node    
+            return node 
+>
+# 11月13日
+1  Average of Levels in Binary Tree（637）
+###
+    # Definition for a binary tree node.
+    # class TreeNode:
+    #     def __init__(self, x):
+    #         self.val = x
+    #         self.left = None
+    #         self.right = None
+
+    class Solution:
+        def averageOfLevels(self, root):
+            averages = []
+            level = [root]
+            while level:
+                averages.append(sum(node.val for node in level) / len(level))
+                level = [kid for node in level for kid in (node.left, node.right) if kid]
+            return averages
