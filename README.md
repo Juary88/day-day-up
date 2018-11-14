@@ -416,3 +416,8 @@ https://blog.csdn.net/weixin_42382211/article/details/81332431
         #count += collections.Counter(B.split())
 
         return [word for word in count if count[word] == 1]
+2 python 集合处理
+>
+###
+https://blog.csdn.net/Chihwei_Hsu/article/details/81416818
+    
