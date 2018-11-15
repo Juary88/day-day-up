@@ -471,3 +471,4 @@ https://blog.csdn.net/lwq1026/article/details/70161857
 >
 4. logistic回归损失函数 可利用最大似然估计理解 y = 0与y = 1的情况统一公示乘起来
 >
+5  多分类softmax
