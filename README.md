@@ -464,3 +464,6 @@ https://blog.csdn.net/Chihwei_Hsu/article/details/81416818
         那么为什么在最优化的时候需要取log呢？有两点原因。 
         1.为了求解简单，在求导的时候。 
         2.为了避免数值的下溢。因为L(θ|x)是由很多概率相乘，而每个概率都是小于一的，如果样本量很大的时候，那么很容易导致L(θ|x)非常非常的小。
+###
+https://www.cnblogs.com/zhsuiy/p/4822020.html
+https://blog.csdn.net/lwq1026/article/details/70161857
