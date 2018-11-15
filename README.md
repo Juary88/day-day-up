@@ -423,3 +423,31 @@ https://blog.csdn.net/Chihwei_Hsu/article/details/81416818
     
 >
 3 刀具磨损预测baseline model
+>
+4 使用sklearn库中的SVR做回归分析
+###
+    http://www.dataivy.cn/blog/regression_with_sklearn/
+
+# 11月15日
+>
+1 Array Nesting（565）
+###
+    class Solution:
+    def arrayNesting(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        res = 1
+        visited = set()
+        for i,num in enumerate(nums):
+            length = 1
+            start, nxt = num, nums[num]
+            if num in visited:
+                continue
+            while start != nxt:
+                length += 1
+                nxt = nums[nxt]
+                visited.add(nxt)
+            res = max(res, length)
+        return res
