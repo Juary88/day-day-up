@@ -454,4 +454,9 @@ https://blog.csdn.net/Chihwei_Hsu/article/details/81416818
 >
 2 混淆矩阵
 >
-![github](https://github.com/Juary88/day-day-up/blob/master/pic/confusion.png) 
+![github](https://github.com/Juary88/day-day-up/blob/master/pic/confusion.png)
+>
+3 似然函数经典理解
+###
+    设总体的概率模型为F(x|θ)。为了说明的方便，暂假定只有一个未知参数，X1，X2，……，Xn是容量为 n 的随机样本（大写X），实际观测到的样本观测值（小写x）为 Xl=x1，X2=x2，……，Xn=xn 。把同各Xi对应的密度函数或概率函数(包括作为未知数的未知参数)的连乘积看成是未知参数的函数，称其为似然函数(Likelihood function)。
+
