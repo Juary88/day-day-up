@@ -472,3 +472,23 @@ https://blog.csdn.net/lwq1026/article/details/70161857
 4. logistic回归损失函数 可利用最大似然估计理解 y = 0与y = 1的情况统一公示乘起来
 >
 5. 多分类softmax
+
+# 11月16日
+1 Sort Array By Parity II
+>
+###
+    class Solution:
+    def sortArrayByParityII(self, A):
+        """
+        :type A: List[int]
+        :rtype: List[int]
+        """
+        res = [0] * len(A)
+        odd = [i for i in A if i % 2 == 0]
+        even = [i for i in A if i % 2 == 1]
+        for i in range(len(A)):
+            if i % 2 == 0:
+                res[i] = odd.pop()
+            else:
+                res[i] = even.pop()
+        return res
