@@ -500,3 +500,23 @@ https://blog.csdn.net/lwq1026/article/details/70161857
     2、1/||w||不影响感知机学习算法的最终结果。因为感知机学习算法最终的终止条件是所有的输入都被正确分类，即不存在误分类的点。则此时损失函数为0. 对应于-y（wx+b）/||w||，即分子为0.则可以看出1/||w||对最终结果也无影响。
     3、对应于svm中的函数间隔。
     4、所以感知机的结果不是唯一的，只考虑分类的正确与否。
+
+# 11月17日
+>
+1 Number Complement
+>
+###
+    class Solution:
+    def findComplement(self, num):
+        """
+        :type num: int
+        :rtype: int
+        """
+        s = bin(num)[2:]
+        res = 0
+        for i in range(len(s) - 1,-1,-1):
+            if s[i] == '0':
+                res += pow(2,len(s) - 1 - i)
+        return res
+ >
+ 2
