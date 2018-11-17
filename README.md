@@ -521,4 +521,21 @@ https://blog.csdn.net/lwq1026/article/details/70161857
  >
  2 iou的理解
  >
- 3 
+ 3 padding（same 与 valid）
+ >
+ ###
+      If padding == "SAME":
+          output_spatial_shape[i] = ceil(input_spatial_shape[i] / strides[i])
+
+        If padding == "VALID":
+          output_spatial_shape[i] =
+            ceil((input_spatial_shape[i] -
+                  (spatial_filter_shape[i]-1) * dilation_rate[i])
+                 / strides[i]).
+
+      Raises:
+        ValueError: If input/output depth does not match filter shape, if padding
+          is other than "VALID" or "SAME", or if data_format is invalid.
+>
+###
+https://oldpan.me/archives/tf-keras-padding-vaild-same
