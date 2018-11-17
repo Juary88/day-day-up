@@ -539,3 +539,8 @@ https://blog.csdn.net/lwq1026/article/details/70161857
 >
 ###
 https://oldpan.me/archives/tf-keras-padding-vaild-same
+>
+4 yolo v1
+>
+###
+https://blog.csdn.net/app_12062011/article/details/77554288
