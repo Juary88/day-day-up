@@ -544,3 +544,25 @@ https://oldpan.me/archives/tf-keras-padding-vaild-same
 >
 ###
 https://blog.csdn.net/app_12062011/article/details/77554288
+
+# 11月19日
+>
+1 leetcode recentcount
+>
+###
+    class RecentCounter:
+
+    def __init__(self):
+        self.que = collections.deque()
+
+    def ping(self, t):
+        """
+        :type t: int
+        :rtype: int
+        """
+        while self.que and self.que[0] < t - 3000:
+            self.que.popleft()
+        self.que.append(t)
+        return self.que
+
+               
