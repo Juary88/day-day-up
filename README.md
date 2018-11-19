@@ -564,5 +564,15 @@ https://blog.csdn.net/app_12062011/article/details/77554288
             self.que.popleft()
         self.que.append(t)
         return self.que
+>
+### collection
+>
+https://blog.csdn.net/windanchaos/article/details/77019008
 
-               
+2  yolov1
+>
+###
+https://blog.csdn.net/app_12062011/article/details/77554288
+>
+https://www.jianshu.com/p/13ec2aa50c12
+
