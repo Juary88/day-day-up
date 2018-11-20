@@ -576,3 +576,9 @@ https://blog.csdn.net/app_12062011/article/details/77554288
 >
 https://www.jianshu.com/p/13ec2aa50c12
 
+# 11月20日
+1 AI资料
+>
+[AI算法工程师](http://www.huaxiaozhuan.com/?from=groupmessage&isappinstalled=0)
+>
+2 
