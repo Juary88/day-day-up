@@ -583,4 +583,4 @@ https://www.jianshu.com/p/13ec2aa50c12
 >
 2 自然语言处理好的blog
 >
-[blog]https://blog.csdn.net/guotong1988/article/category/6076360/2
+[blog](https://blog.csdn.net/guotong1988/article/category/6076360/2)
