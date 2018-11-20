@@ -581,4 +581,6 @@ https://www.jianshu.com/p/13ec2aa50c12
 >
 [AI算法工程师](http://www.huaxiaozhuan.com/?from=groupmessage&isappinstalled=0)
 >
-2 
+2 自然语言处理好的blog
+>
+[blog]https://blog.csdn.net/guotong1988/article/category/6076360/2
