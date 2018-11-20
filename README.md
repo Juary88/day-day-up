@@ -584,3 +584,26 @@ https://www.jianshu.com/p/13ec2aa50c12
 2 自然语言处理好的blog
 >
 [blog](https://blog.csdn.net/guotong1988/article/category/6076360/2)
+
+3 Shortest Distance to a Character
+>
+###
+    class Solution:
+    def shortestToChar(self, S, C):
+        """
+        :type S: str
+        :type C: str
+        :rtype: List[int]
+        """
+        a = []
+        ans = []
+        for i in range(len(S)):
+            if S[i] == C:
+                a.append(i)
+        for i in range(len(S)):
+            t = float('inf')
+            for j in a:
+                if t > abs(i - j):
+                    t = abs(i - j)
+            ans.append(t)
+        return ans
