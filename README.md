@@ -642,4 +642,10 @@ https://www.jianshu.com/p/13ec2aa50c12
     return count
  
  >
- 2 
+ 2 fft转化为频谱
+ >
+ ###
+ https://plot.ly/matplotlib/fft/
+ 
+ >
+ 3 
