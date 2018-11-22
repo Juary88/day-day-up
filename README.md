@@ -647,5 +647,19 @@ https://www.jianshu.com/p/13ec2aa50c12
  ###
  https://plot.ly/matplotlib/fft/
  
- >
- 3 
+ # 11月22日
+ > 
+1 leetcode Arithmetic Slices
+>
+###
+    class Solution:
+        def numberOfArithmeticSlices(self, A):
+            """
+            :type A: List[int]
+            :rtype: int
+            """
+            dp = [0] * len(A)
+            for i in range(2,len(A)):
+                if A[i] - A[i - 1] == A[i - 1] - A[i - 2]:
+                    dp[i] = 1 + dp[i - 1]
+            return sum(dp)
