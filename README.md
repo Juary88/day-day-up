@@ -663,3 +663,26 @@ https://www.jianshu.com/p/13ec2aa50c12
                 if A[i] - A[i - 1] == A[i - 1] - A[i - 2]:
                     dp[i] = 1 + dp[i - 1]
             return sum(dp)
+
+# 11月23日
+>
+1 Is Subsequence
+###
+    class Solution:
+    def isSubsequence(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: bool
+        """
+        if len(s) == 0:
+            return True
+        if len(t) == 0:
+            return False
+        n = 0
+        for i in t:
+            if s[n] == i:
+                n += 1
+            if n == len(s):
+                return True
+        return False
