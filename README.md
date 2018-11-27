@@ -696,4 +696,10 @@ https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solution
 >
 2 期望泛化误差 = 方差 + 偏差 + 噪声
 >
-3 
+
+# 11月27日
+>
+1 python 机器学习实战：信用卡欺诈异常值检测
+###
+[python 机器学习实战：信用卡欺诈异常值检测](https://blog.csdn.net/dengheCSDN/article/details/79079364#commentBox)
+>
