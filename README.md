@@ -708,5 +708,6 @@ https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solution
 >
 1 numpy 实现 fft变化
 ###
-[python傅立叶变化]http://bigsec.net/b52/scipydoc/frequency_process.html#hilbert
+[python傅立叶变化]（http://bigsec.net/b52/scipydoc/frequency_process.html#hilbert）
 https://blog.csdn.net/ouening/article/details/71079535
+[功率谱](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.signal.welch.html)
