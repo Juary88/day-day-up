@@ -703,3 +703,10 @@ https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solution
 ###
 [python 机器学习实战：信用卡欺诈异常值检测](https://blog.csdn.net/dengheCSDN/article/details/79079364#commentBox)
 >
+
+# 11月28日
+>
+1 numpy 实现 fft变化
+###
+[python傅立叶变化]http://bigsec.net/b52/scipydoc/frequency_process.html#hilbert
+https://blog.csdn.net/ouening/article/details/71079535
