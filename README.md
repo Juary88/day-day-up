@@ -712,3 +712,7 @@ https://github.com/apachecn/awesome-algorithm/blob/master/docs/Leetcode_Solution
 https://blog.csdn.net/ouening/article/details/71079535
 >
 [功率谱](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.signal.welch.html)
+
+# 11月30日
+###
+1 [论文在线阅读](https://max.book118.com/html/2017/0704/120163690.shtm)
