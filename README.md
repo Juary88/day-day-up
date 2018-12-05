@@ -724,3 +724,5 @@ https://blog.csdn.net/ouening/article/details/71079535
 2 [nlp任务项目](https://zhuanlan.zhihu.com/p/51279338)
 >
 3 [nlp专栏](https://www.zhihu.com/people/cangshengtage/activities)
+>
+  https://www.zhihu.com/topic/19560026/hot
