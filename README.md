@@ -722,3 +722,5 @@ https://blog.csdn.net/ouening/article/details/71079535
 1 [中文文本中如何抽取关系/观点词](https://www.zhihu.com/question/44633151)
 >
 2 [nlp任务项目](https://zhuanlan.zhihu.com/p/51279338)
+>
+3 [nlp专栏](https://www.zhihu.com/people/cangshengtage/activities)
