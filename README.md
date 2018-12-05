@@ -726,3 +726,5 @@ https://blog.csdn.net/ouening/article/details/71079535
 3 [nlp专栏](https://www.zhihu.com/people/cangshengtage/activities)
 >
   https://www.zhihu.com/topic/19560026/hot
+>
+4 [face++人脸识别](https://github.com/zhouxuanxian/FaceCompare/blob/master/Face%2B%2BDetectCompare.py)
