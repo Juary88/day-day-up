@@ -716,3 +716,7 @@ https://blog.csdn.net/ouening/article/details/71079535
 # 11月30日
 ###
 1 [论文在线阅读](https://max.book118.com/html/2017/0704/120163690.shtm)
+
+# 12月5日
+###
+1 [中文文本中如何抽取关系/观点词](https://www.zhihu.com/question/44633151)
