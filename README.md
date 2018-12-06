@@ -728,3 +728,8 @@ https://blog.csdn.net/ouening/article/details/71079535
   https://www.zhihu.com/topic/19560026/hot
 >
 4 [face++人脸识别](https://github.com/zhouxuanxian/FaceCompare/blob/master/Face%2B%2BDetectCompare.py)
+
+# 12月6日
+1 [对phm数据进行分析](https://blog.csdn.net/qq_40587575/article/details/83351960)
+>
+2
