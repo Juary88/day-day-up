@@ -732,4 +732,8 @@ https://blog.csdn.net/ouening/article/details/71079535
 # 12月6日
 1 [对phm数据进行分析](https://blog.csdn.net/qq_40587575/article/details/83351960)
 >
+
+# 12月8日
+1 [python基础](https://study.163.com/course/introduction.htm?courseId=1005461017)
+>
 2
