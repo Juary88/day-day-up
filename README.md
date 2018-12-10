@@ -736,4 +736,8 @@ https://blog.csdn.net/ouening/article/details/71079535
 # 12月8日
 1 [python基础](https://study.163.com/course/introduction.htm?courseId=1005461017)
 >
-2
+
+# 12月10日
+1 hmm 前向算法理解
+![github](https://github.com/Juary88/day-day-up/blob/master/pic/hmm.png)
+
