@@ -741,3 +741,5 @@ https://blog.csdn.net/ouening/article/details/71079535
 1 hmm 前向算法理解
 ![github](https://github.com/Juary88/day-day-up/blob/master/pic/hmm.png)
 
+# 12月11日
+1 [使用Python中的Featuretools实现自动化特征工程的实用指南](https://www.ziiai.com/blog/772)
