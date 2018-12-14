@@ -762,3 +762,5 @@ https://blog.csdn.net/ouening/article/details/71079535
             for key in rooms[index]:
                 if visited[key] == 0:
                     self.dfs(rooms,key,visited)
+
+2 [Inception](https://www.cnblogs.com/haiyang21/category/963117.html)
