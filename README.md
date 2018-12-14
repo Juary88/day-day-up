@@ -743,3 +743,21 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 12月11日
 1 [使用Python中的Featuretools实现自动化特征工程的实用指南](https://www.ziiai.com/blog/772)
+
+# 12月14日
+1 ### leetcode 841. Keys and Rooms
+    class Solution:
+        def canVisitAllRooms(self, rooms):
+            """
+            :type rooms: List[List[int]]
+            :rtype: bool
+            """
+            visited = [0] * len(rooms)
+            self.dfs(rooms,0,visited)
+            return sum(visited) ==  len(rooms)
+
+        def dfs(self,rooms,index,visited):
+            visited[index] = 1
+            for key in rooms[index]:
+                if visited[key] == 0:
+                    self.dfs(rooms,key,visited)
