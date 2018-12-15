@@ -796,3 +796,5 @@ https://blog.csdn.net/ouening/article/details/71079535
                 area = dfs(i, j, 0)
                 res = max(res, area)
         return res   
+>
+2 [深入理解Batch Normalization批标准化](https://www.cnblogs.com/guoyaohua/p/8724433.html)
