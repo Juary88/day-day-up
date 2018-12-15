@@ -764,3 +764,35 @@ https://blog.csdn.net/ouening/article/details/71079535
                     self.dfs(rooms,key,visited)
 
 2 [Inception](https://www.cnblogs.com/haiyang21/category/963117.html)
+
+# 12月15日
+1 leetcode 695. Max Area of Island
+>
+###
+    class Solution:
+    def maxAreaOfIsland(self, grid):
+        """
+        :type grid: List[List[int]]
+        :rtype: int
+        """
+        if not grid or len(grid) == 0:
+            return 0
+        m = len(grid)
+        n = len(grid[0]) if m else 0
+        
+        def dfs(i, j, area):
+            if i < 0 or i >= m or j < 0 or j >= n or grid[i][j] != 1:
+                return area
+            else:
+                grid[i][j] = 0
+                area += 1
+            for x, y in ([(i, j+1), (i, j-1), (i+1, j), (i-1, j)]):
+                area = dfs(x, y, area)
+            return area 
+
+        res = 0
+        for i in range(len(grid)):
+            for j in range(len(grid[0])):
+                area = dfs(i, j, 0)
+                res = max(res, area)
+        return res   
