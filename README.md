@@ -798,3 +798,7 @@ https://blog.csdn.net/ouening/article/details/71079535
         return res   
 >
 2 [深入理解Batch Normalization批标准化](https://www.cnblogs.com/guoyaohua/p/8724433.html)
+>
+3 [inceptionv1，v2...](https://blog.csdn.net/qq_14845119/article/details/73648100)
+>
+4
