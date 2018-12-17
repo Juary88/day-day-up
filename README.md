@@ -801,4 +801,14 @@ https://blog.csdn.net/ouening/article/details/71079535
 >
 3 [inceptionv1，v2...](https://blog.csdn.net/qq_14845119/article/details/73648100)
 >
-4
+
+# 12月17日
+1 leetcode Single Number III(260)
+###
+    位运算，终于要take it了
+
+    非常常见的一道算法题，将所有数字进行异或操作即可。对于异或操作明确以下三点：
+
+    一个整数与自己异或的结果是0
+    一个整数与0异或的结果是自己
+    异或操作满足交换律，即a^b=b^a
