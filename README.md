@@ -812,3 +812,5 @@ https://blog.csdn.net/ouening/article/details/71079535
     一个整数与自己异或的结果是0
     一个整数与0异或的结果是自己
     异或操作满足交换律，即a^b=b^a
+>
+2 [正则验证](https://regexr.com)
