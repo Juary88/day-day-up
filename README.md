@@ -814,3 +814,20 @@ https://blog.csdn.net/ouening/article/details/71079535
     异或操作满足交换律，即a^b=b^a
 >
 2 [正则验证](https://regexr.com)
+
+# 12月18日
+1 leetcode 287. Find the Duplicate Number
+>
+###
+    class Solution:
+        def findDuplicate(self, nums):
+            """
+            :type nums: List[int]
+            :rtype: int
+            """
+            nums = sorted(nums)
+            i,j = 0,1
+            while nums[i] != nums[j]:
+                i += 1
+                j += 1
+            return nums[i]
