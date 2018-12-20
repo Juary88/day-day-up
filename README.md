@@ -831,3 +831,23 @@ https://blog.csdn.net/ouening/article/details/71079535
                 i += 1
                 j += 1
             return nums[i]
+ >
+ 2 [svm kernel](https://blog.csdn.net/aliceyangxi1987/article/details/80617649)
+ 
+ # 12月20日
+ 1 leetcode 
+ ###
+    class Solution(object):
+    def isNStraightHand(self, hand, W):
+        count = collections.Counter(hand)
+        while count:
+            m = min(count)
+            for k in range(m, m+W):
+                v = count[k]
+                if not v: return False
+                if v == 1:
+                    del count[k]
+                else:
+                    count[k] = v - 1
+
+        return True
