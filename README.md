@@ -854,3 +854,5 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 12月22日
 1 [pytorch 学习网站]（https://pytorch.apachecn.org/#/）
+>
+2 [nlp网站]（https://github.com/apachecn/AiLearning）
