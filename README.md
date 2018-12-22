@@ -856,3 +856,5 @@ https://blog.csdn.net/ouening/article/details/71079535
 1 [pytorch 学习网站]（https://pytorch.apachecn.org/#/）
 >
 2 [nlp网站]（https://github.com/apachecn/AiLearning）
+>
+3 [pytorch tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
