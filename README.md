@@ -861,3 +861,5 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 12月24日
 1 [keras文档](https://keras.io/zh/callbacks/)
+>
+2 [TimeDistribute](https://blog.csdn.net/oQiCheng1234567/article/details/73051251)
