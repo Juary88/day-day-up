@@ -857,4 +857,7 @@ https://blog.csdn.net/ouening/article/details/71079535
 >
 2 [nlp网站]（https://github.com/apachecn/AiLearning）
 >
-3 [pytorch tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
+3 [pytorch tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial
+
+# 12月24日
+1 [keras文档](https://keras.io/zh/callbacks/)
