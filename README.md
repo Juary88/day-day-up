@@ -863,3 +863,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 1 [keras文档](https://keras.io/zh/callbacks/)
 >
 2 [TimeDistribute](https://blog.csdn.net/oQiCheng1234567/article/details/73051251)
+
+# 12月25日
+1 [lstm + cnn TimeDistribute](https://blog.csdn.net/luoganttcc/article/details/83582318)
