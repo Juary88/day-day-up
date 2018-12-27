@@ -868,3 +868,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 1 [lstm + cnn TimeDistribute](https://blog.csdn.net/luoganttcc/article/details/83582318)
 2 [keras lstm详解](https://blog.csdn.net/jiangpeng59/article/details/77646186)
 3 [keras 文本分类法律相关demo](https://blog.csdn.net/vivian_ll/article/details/80829474)
+
+# 12月27日
+1 [face yolov3](https://juejin.im/post/5b3d943ef265da0fa332cd66)
