@@ -875,3 +875,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 2 [DL-Project-Template](https://github.com/SpikeKing/DL-Project-Template)
 >
 3 [labelimg](https://blog.csdn.net/yeluohanchan/article/details/79023863)
+
+# 12月28日
+1 [yolov3训练自己数据](https://blog.csdn.net/yeluohanchan/article/details/79023863)
