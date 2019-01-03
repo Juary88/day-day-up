@@ -878,3 +878,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 12月28日
 1 [yolov3训练自己数据](https://blog.csdn.net/yeluohanchan/article/details/79023863)
+
+# 1月3号
+1 [yolo-v3 CarND-Vehicle-Detection](https://github.com/xslittlegrass/CarND-Vehicle-Detection)
