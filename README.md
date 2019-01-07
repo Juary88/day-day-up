@@ -898,3 +898,27 @@ https://blog.csdn.net/ouening/article/details/71079535
         available_tasks = len(tasks) - len([i for i in d.values() if i == max(d.values())]) * max(d.values())
         idles = max(0, empty_slots - available_tasks)
         return len(tasks) + idles
+# 1月7日
+1 leetcode 547. Friend Circles
+###
+    class Solution(object):
+    def findCircleNum(self, M):
+        """
+        :type M: List[List[int]]
+        :rtype: int
+        """
+        _set=set()
+        
+        def dfs(node):
+            for i,val in enumerate(M[node]):
+                if val and i not in _set:
+                    _set.add(i)
+                    dfs(i)
+        result=0
+        for i in range(len(M)):
+            if i not in _set:
+                result+=1
+                dfs(i)
+        return result
+>
+2 
