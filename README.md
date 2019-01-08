@@ -930,4 +930,28 @@ https://blog.csdn.net/ouening/article/details/71079535
 # 1月8日
 1 [语义分割fcn](https://zhuanlan.zhihu.com/p/31428783)
 >
-2
+2 keras concatenate
+### 
+    import numpy as np
+    import keras.backend as K
+    import tensorflow as tf
+
+    t1 = K.variable(np.array([[[[1, 2], [2, 3]], [[4, 4], [5, 3]]]]))
+    t2 = K.variable(np.array([[[[7, 4], [8, 4]], [[2, 10], [15, 11]]]]))
+    d0 = K.concatenate([t1 , t2] , axis=0)
+    print(d0.shape)
+    d1 = K.concatenate([t1 , t2] , axis=1)
+    print(d1.shape)
+    d2 = K.concatenate([t1 , t2] , axis=2)
+    print(d2.shape)
+    d3 = K.concatenate([t1 , t2] , axis=3)
+    print(d3.shape)
+    init = tf.global_variables_initializer()
+    with tf.Session() as sess:
+        sess.run(init)
+        print(sess.run(d0))
+        print(sess.run(d1))
+        print(sess.run(d2))
+>
+3 
+    print(sess.run(d3))
