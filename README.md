@@ -926,3 +926,8 @@ https://blog.csdn.net/ouening/article/details/71079535
 3 [deeplearning](https://github.com/sea-boat/DeepLearning-Lab)
 >
 4 [语义分割model](https://github.com/mrgloom/awesome-semantic-segmentation)
+
+# 1月8日
+1 [语义分割fcn](https://zhuanlan.zhihu.com/p/31428783)
+>
+2
