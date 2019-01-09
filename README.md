@@ -960,4 +960,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 >
 2 [吴恩达deeplearning.ai](https://github.com/bighuang624/Andrew-Ng-Deep-Learning-notes/tree/master/docs)
 >
-3
+3 [knife 论文](https://max.book118.com/html/2017/0704/120163690.shtm)
+>
+4
