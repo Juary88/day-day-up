@@ -953,5 +953,9 @@ https://blog.csdn.net/ouening/article/details/71079535
         print(sess.run(d1))
         print(sess.run(d2))
 >
-3 
-    print(sess.run(d3))
+
+# 1月9日
+1 [归一化方法的两个问题讨论](https://mp.weixin.qq.com/s?__biz=MzU0MDQ1NjAzNg==&mid=2247485585&idx=1&sn=3e9fdbbc9b12644cfb7ab1a84460a078&chksm=fb39ad9acc4e248c9a97045e504553e18fd8a241676fd6f33a332b55c3c40390fa8e7cb9b745&mpshare=1&scene=23&srcid=0109y0c1Zwx2lzrg3vrTlX5o)
+
+>
+2 
