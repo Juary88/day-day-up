@@ -965,3 +965,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 4 [u-net demo](https://github.com/mattzheng/U-Net-Demo)
 >
 5 [人脸识别网站](https://github.com/krasserm/face-recognition)
+
+# 1月11日
+1 [Deep face recognition with Keras, Dlib and OpenCV](https://krasserm.github.io/2018/02/07/deep-face-recognition/)
