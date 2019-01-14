@@ -970,3 +970,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 1 [Deep face recognition with Keras, Dlib and OpenCV](https://krasserm.github.io/2018/02/07/deep-face-recognition/)
 >
 2 [深度学习模型 MTCNN 和人脸识别的深度学习模型 FaceNet](https://www.infoq.cn/article/how-to-achieve-face-recognition-using-mtcnn-and-facenet)
+
+# 1月14日
+1 [机器学习与自然语言专栏nlp](https://zhuanlan.zhihu.com/qinlibo-ml)
