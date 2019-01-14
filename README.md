@@ -973,3 +973,5 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 1月14日
 1 [机器学习与自然语言专栏nlp](https://zhuanlan.zhihu.com/qinlibo-ml)
+>
+2 [逻辑回归与最大似然函数](https://blog.csdn.net/star_liux/article/details/39666737）
