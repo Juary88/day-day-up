@@ -978,3 +978,5 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 1月15日
 1 [深度学习模型](https://github.com/liuzhuang13/DenseNet)
+>
+2 [densenet理解](https://blog.csdn.net/u014380165/article/details/75142664)
