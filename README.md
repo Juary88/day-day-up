@@ -984,3 +984,5 @@ https://blog.csdn.net/ouening/article/details/71079535
 3 
 ###
     Factorizing Convolutions with Large Filter Size，也就是分解大的卷积，用小的卷积核替换大的卷积核，因为大尺寸的卷积核可以带来更大的感受野，但也意味着更多的参数，比如5x5卷积核参数是3x3卷积核的25/9=2.78倍。因此可以用2个连续的3x3卷积层(stride=1)组成的小网络来代替单个的5x5卷积层，(保持感受野范围的同时又减少了参数量),也就产生了Inception V2;而nxn的卷积核又可以通过1xn卷积后接nx1卷积来替代,也就是Inception V3结构,但是作者发现在网络的前期使用这种分解效果并不好，还有在中度大小的feature map上使用效果才会更好。（对于mxm大小的feature map,建议m在12到20之间）
+>
+4 [hog + svm目标检测](https://zhuanlan.zhihu.com/p/34818568)
