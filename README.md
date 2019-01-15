@@ -989,4 +989,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 >
 5 [自然语言处理文本分类三种对比方法](https://zhuanlan.zhihu.com/p/34688488)
 >
-6
+6 [QA Model](https://github.com/l11x0m7/Question_Answering_Models)
+>
+7
