@@ -998,3 +998,5 @@ https://blog.csdn.net/ouening/article/details/71079535
 2 [经验模态分解EMD](https://zhuanlan.zhihu.com/p/40005057)
 >
   [经验模态分解EMD IMF](https://zhuanlan.zhihu.com/p/44833026)
+>
+3 [改善EMD端点效应的方法](https://zhuanlan.zhihu.com/p/29050617)
