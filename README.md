@@ -994,3 +994,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 1月17日
 1 [信号处理](https://zhuanlan.zhihu.com/xinhao)
+2 [经验模态分解EMD](https://zhuanlan.zhihu.com/p/40005057)
+>
+  [经验模态分解EMD IMF](https://zhuanlan.zhihu.com/p/44833026)
