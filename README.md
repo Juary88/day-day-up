@@ -1000,3 +1000,28 @@ https://blog.csdn.net/ouening/article/details/71079535
   [经验模态分解EMD IMF](https://zhuanlan.zhihu.com/p/44833026)
 >
 3 [改善EMD端点效应的方法](https://zhuanlan.zhihu.com/p/29050617)
+
+# 1月18日
+1 leetcode[permutation]
+###
+    class Solution(object):
+        def permute(self, nums):
+            """
+            :type nums: List[int]
+            :rtype: List[List[int]]
+            """
+            self.res = []
+            sub = []
+            self.dfs(nums,sub)
+            return self.res
+
+        def dfs(self, Nums, subList):
+            if len(subList) == len(Nums):
+                #print res,subList
+                self.res.append(subList[:])
+            for m in Nums:
+                if m in subList:
+                    continue
+                subList.append(m)
+                self.dfs(Nums,subList)
+                subList.remove(m)
