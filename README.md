@@ -1024,4 +1024,10 @@ https://blog.csdn.net/ouening/article/details/71079535
                     continue
                 subList.append(m)
                 self.dfs(Nums,subList)
-                subList.remove(m)
+               subList.remove(m)
+
+# 1月21日
+1 工信部钢卷吞吐量预测
+
+# 1月22日
+1 
