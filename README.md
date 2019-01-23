@@ -1039,4 +1039,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 # 1月23日
 1 [红色石头机器学习、深度学习](https://redstonewill.com/)
 >
-2 
+2 [特征选择slelct k best](https://zhuanlan.zhihu.com/p/33199547)
+>
+3 
