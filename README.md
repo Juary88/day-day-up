@@ -1035,3 +1035,8 @@ https://blog.csdn.net/ouening/article/details/71079535
 2 [卡尔曼滤波器理解](https://www.jianshu.com/p/d3b1c3d307e0)
 >
 3 phm2010 刀具磨损值预测
+
+# 1月23日
+1 [红色石头机器学习、深度学习](https://redstonewill.com/)
+>
+2 
