@@ -1048,3 +1048,4 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 2月15日
 1 [合页损失函数](https://blog.csdn.net/lz_peter/article/details/79614556)
+2 [数据清洗常见方法](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)
