@@ -1045,4 +1045,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 # 1月25日
 1 [简历制作tool](https://www.cakeresume.com/)
 >
-2 
+
+# 2月15日
+1 [合页损失函数](https://blog.csdn.net/lz_peter/article/details/79614556)
