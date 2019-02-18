@@ -1052,3 +1052,4 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 #2月16日
 1 [深度学习吴恩达基础](http://kyonhuang.top/Andrew-Ng-Deep-Learning-notes/#/Convolutional_Neural_Networks/卷积神经网络)
+2 [时间序列模型预处理](https://cloud.tencent.com/developer/article/1042809)
