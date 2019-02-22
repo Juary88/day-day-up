@@ -1059,3 +1059,7 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 2月21日
 1 峨胜水泥 特征相关性分析
+
+# 2月22日
+1 [模型融合](https://zhuanlan.zhihu.com/p/40131797)
+2 回归树基础(极客时间)
