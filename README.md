@@ -1062,6 +1062,11 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 2月22日
 1 [模型融合](https://zhuanlan.zhihu.com/p/40131797)
+>
 2 回归树基础(极客时间)
+>
 3 [随机森林](https://www.jianshu.com/p/a779f0686acc)
+>
 4 [梯度提升决策树](https://www.jianshu.com/p/005a4e6ac775)
+>
+5 模型总结从线性到非线性(极客时间)
