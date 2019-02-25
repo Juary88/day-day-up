@@ -1070,3 +1070,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 4 [梯度提升决策树](https://www.jianshu.com/p/005a4e6ac775)
 >
 5 模型总结从线性到非线性(极客时间)
+
+# 2月25日
+1 [自然语言处理 命名实体识别 图谱blog](https://blog.csdn.net/lhy2014/article/details/84582145#comments)
