@@ -1076,3 +1076,5 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 2月26日
 1 [XGBOOST 参数](https://blog.csdn.net/zc02051126/article/details/46711047)
+>
+2 [机器学习算法中 GBDT 和 XGBOOST 的区别有哪些？](https://www.zhihu.com/question/41354392)
