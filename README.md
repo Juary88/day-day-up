@@ -1073,3 +1073,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 2月25日
 1 [自然语言处理 命名实体识别 图谱blog](https://blog.csdn.net/lhy2014/article/details/84582145#comments)
+
+# 2月26日
+1 [XGBOOST 参数](https://blog.csdn.net/zc02051126/article/details/46711047)
