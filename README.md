@@ -1078,3 +1078,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 1 [XGBOOST 参数](https://blog.csdn.net/zc02051126/article/details/46711047)
 >
 2 [机器学习算法中 GBDT 和 XGBOOST 的区别有哪些？](https://www.zhihu.com/question/41354392)
+
+# 2月27日
+1 友达光电异常设备检测(表的转化、iv算法)
