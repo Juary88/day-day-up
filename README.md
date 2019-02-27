@@ -1081,3 +1081,5 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 2月27日
 1 友达光电异常设备检测(表的转化、iv算法)
+>
+2 [贝叶斯优化](https://blog.csdn.net/weixin_40105364/article/details/81322935)
