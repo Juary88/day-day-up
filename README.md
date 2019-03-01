@@ -1085,3 +1085,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 2 [贝叶斯优化](https://blog.csdn.net/weixin_40105364/article/details/81322935)
 >
 3 [LABELIMG 快捷键](https://blog.csdn.net/qq_25254777/article/details/80352331)
+
+# 3月1日
+1 [深度学习相关blog 人体检测](https://blog.csdn.net/sinat_26917383/article/details/86557399)
