@@ -1088,3 +1088,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 3月1日
 1 [深度学习相关blog 人体检测](https://blog.csdn.net/sinat_26917383/article/details/86557399)
+
+# 3月4日
+1 [信息量，信息熵，交叉熵，KL散度和互信息（信息增益）](https://blog.csdn.net/haolexiao/article/details/70142571)
