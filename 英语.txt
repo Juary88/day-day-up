@@ -8,3 +8,5 @@
 8 automatic highlighting and contextual entity search 自动突出显示，上下文实体搜索
 9 Having a solid base of algorithm knowledge and technique is one characteristic that separates the truly skilled programmers from the novices.
 10 trim 修剪
+11 holistically 整体的
+12 
