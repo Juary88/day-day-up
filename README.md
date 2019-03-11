@@ -1091,3 +1091,7 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 3月4日
 1 [信息量，信息熵，交叉熵，KL散度和互信息（信息增益）](https://blog.csdn.net/haolexiao/article/details/70142571)
+
+# 3月11日
+1 友达光电 
+2 wv,emlo(解决多意词),gpt,bert
