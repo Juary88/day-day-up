@@ -1095,3 +1095,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 # 3月11日
 1 友达光电 
 2 wv,emlo(解决多意词),gpt,bert
+
+# 3月12日
+1 卡方分布(https://blog.csdn.net/qq_39303465/article/details/79223843)
