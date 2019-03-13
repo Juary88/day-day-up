@@ -1093,8 +1093,14 @@ https://blog.csdn.net/ouening/article/details/71079535
 1 [信息量，信息熵，交叉熵，KL散度和互信息（信息增益）](https://blog.csdn.net/haolexiao/article/details/70142571)
 
 # 3月11日
-1 友达光电 
+1 友达光电
+>
 2 wv,emlo(解决多意词),gpt,bert
 
 # 3月12日
-1 卡方分布(https://blog.csdn.net/qq_39303465/article/details/79223843)
+1 [卡方分布](https://blog.csdn.net/qq_39303465/article/details/79223843)
+>
+2 [卡方分布2](https://blog.csdn.net/snowdroptulip/article/details/78770088)
+
+# 3月13日
+1
