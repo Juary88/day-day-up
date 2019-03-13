@@ -1107,4 +1107,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 >
 2 [pandas表合并](https://www.cnblogs.com/bambipai/p/7668811.html)
 >
+3 卡方分布异常值检测
+>
 
