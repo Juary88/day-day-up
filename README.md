@@ -1103,4 +1103,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 2 [卡方分布2](https://blog.csdn.net/snowdroptulip/article/details/78770088)
 
 # 3月13日
-1
+1 [cramer's v]https://www.cnblogs.com/webRobot/p/6943562.html
+>
+2 
