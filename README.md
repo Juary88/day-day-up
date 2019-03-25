@@ -1112,3 +1112,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 3月22日
 1 [时间序列数据处理](https://blog.csdn.net/toshibahuai/article/details/79034829)
+
+# 3月25日
+1 [EM算法](https://blog.csdn.net/weixin_38206214/article/details/81431932)
