@@ -1118,3 +1118,5 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 3月26日
 1 [贝叶斯估计](https://blog.csdn.net/zengxiantao1994/article/details/72889732)
+>
+2 [hmm前向计算的理解](https://www.zhihu.com/question/20962240?sort=created)
