@@ -1115,3 +1115,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 3月25日
 1 [EM算法](https://blog.csdn.net/weixin_38206214/article/details/81431932)
+
+# 3月26日
+1 [贝叶斯估计](https://blog.csdn.net/zengxiantao1994/article/details/72889732)
