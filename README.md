@@ -1120,3 +1120,8 @@ https://blog.csdn.net/ouening/article/details/71079535
 1 [贝叶斯估计](https://blog.csdn.net/zengxiantao1994/article/details/72889732)
 >
 2 [hmm前向计算的理解](https://www.zhihu.com/question/20962240?sort=created)
+
+# 3月27日
+1 [Python读取配置文件](https://www.cnblogs.com/cnhkzyy/p/9294829.html)
+>
+2
