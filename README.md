@@ -1125,3 +1125,8 @@ https://blog.csdn.net/ouening/article/details/71079535
 1 [Python读取配置文件](https://www.cnblogs.com/cnhkzyy/p/9294829.html)
 >
 2 [hmm时间复杂度计算](https://www.cnblogs.com/liuwu265/p/4732797.html)
+
+# 3月28日
+1 [em算法](https://blog.csdn.net/yzheately/article/details/51164441)
+>
+2
