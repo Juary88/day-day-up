@@ -1129,4 +1129,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 # 3月28日
 1 [em算法](https://blog.csdn.net/yzheately/article/details/51164441)
 >
-2
+2 [统计学习EM算法]
+>
+3
