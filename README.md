@@ -1135,4 +1135,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 # 4月1日
 1 [nlp知识图谱、关系抽取](https://blog.csdn.net/lhy2014)
 >
-2 
+2 [medical命名实体识别](https://blog.csdn.net/lhy2014/article/details/84582145)
+>
+3
