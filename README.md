@@ -1144,3 +1144,7 @@ https://blog.csdn.net/ouening/article/details/71079535
 1) 修改trainnet-thread 构造训练数据 dataset 放数据
 2）修改模型配置文件num_class,IMS_PER_BATCH: 1,NMS: 0.5 MAX_ITER: 120000
   STEPS: [0, 40000, 80000]
+>
+2 [R-cnn]（https://www.cnblogs.com/zf-blog/p/6740736.html）
+>
+3
