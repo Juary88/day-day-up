@@ -1147,4 +1147,8 @@ https://blog.csdn.net/ouening/article/details/71079535
 >
 2 [R-cnn]（https://www.cnblogs.com/zf-blog/p/6740736.html）
 >
-3
+
+# 4月9日
+1 [fast-rcnn详解](https://blog.csdn.net/u014380165/article/details/72851319)
+>
+2
