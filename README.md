@@ -1152,5 +1152,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 1 [fast-rcnn详解](https://blog.csdn.net/u014380165/article/details/72851319)
 >
 2 [缺陷检测demo](https://blog.csdn.net/qq_27871973/article/details/86007150)
->
 
+# 4月10日
+1 [算法交易平台](http://ai.loliloli.pro/aicodes_home.html)
