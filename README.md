@@ -1151,4 +1151,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 # 4月9日
 1 [fast-rcnn详解](https://blog.csdn.net/u014380165/article/details/72851319)
 >
-2
+2 [缺陷检测demo](https://blog.csdn.net/qq_27871973/article/details/86007150)
+>
+
