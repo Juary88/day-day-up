@@ -1155,3 +1155,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 4月10日
 1 [算法交易平台](http://ai.loliloli.pro/aicodes_home.html)
+
+# 4月11日
+1 [博客专家79名 nlp系列](https://blog.csdn.net/App_12062011/article/details/88370570)
