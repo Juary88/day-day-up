@@ -1158,3 +1158,7 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 4月11日
 1 [博客专家79名 nlp系列](https://blog.csdn.net/App_12062011/article/details/88370570)
+
+# 4月15日
+1 [python字典底层理解](https://blog.csdn.net/weixin_42681866/article/details/82785127)
+
