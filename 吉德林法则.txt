@@ -1,0 +1,13 @@
+# 4月15日
+1 树的结构
+>
+2 录屏,SMARTMING
+>
+3 leetcode一道
+>
+4 <<Using Information Value, Information Gain and Gain Ratio for Detecting
+Two-way Interaction Effect>>论文
+>
+5 <<FPN>>论文
+>
+6 自由安排
