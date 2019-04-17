@@ -1164,3 +1164,19 @@ https://blog.csdn.net/ouening/article/details/71079535
 
 # 4月16日
 1 [找零问题](https://blog.csdn.net/sinat_30537123/article/details/78354349)
+
+# 4月17日
+1 ###
+    class Solution:
+        def numTrees(self, n):
+            # The number of binary trees in i
+            dp = [0 for _ in range(n+1)]
+            # init
+            dp[0], dp[1] = 1, 1
+            for i in range(2, n+1):
+                # j is the root 
+                for j in range(1,i+1):
+                    # the root of left subtree is -1,and the right is i-j
+                    dp[i] += dp[j-1]*dp[i-j]
+
+            return dp[n]
