@@ -39,3 +39,16 @@ Two-way Interaction Effect>>论文
 5 yolo论文
 >
 6 自由安排
+
+# 4月18日
+1 jupyter 深度学习环境搭建
+>
+2 YOLO V3 训练
+>
+3 YOLO V3 论文
+>
+4 LEETCODE
+>
+5 《用python解决数据结构和算法>>
+>
+6 待续
