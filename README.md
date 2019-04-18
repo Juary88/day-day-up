@@ -1188,3 +1188,11 @@ https://blog.csdn.net/ouening/article/details/71079535
  [docker 权限不够](https://github.com/moby/moby/issues/2645)
 >
  [docker申请账号](https://hub.docker.com/signup)
+
+# 4月18日
+1 docker run报错：
+改为：nvidia-docker run -d -p 8888:8888 -p 6006:6006 -v /home/root/tensorflow-tensorlog:/tensorlog -v /home/root/tensorflow-data:/notebooks -v /var/tensorflow-dataset:/mnt -e PASSWORD=233233 docker.io/keineahnung2345/tensorflow-opencv:test2
+>
+2 [docker tensorflow](https://github.com/Ceruleanacg/Personae/issues/14）
+>
+3
