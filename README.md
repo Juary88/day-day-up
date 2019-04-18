@@ -1195,4 +1195,4 @@ https://blog.csdn.net/ouening/article/details/71079535
 >
 2 [docker tensorflow](https://github.com/Ceruleanacg/Personae/issues/14）
 >
-3
+3 [nvidia-docker安装](https://blog.csdn.net/A632189007/article/details/78801166)
