@@ -52,3 +52,16 @@ Two-way Interaction Effect>>论文
 5 《用python解决数据结构和算法>>
 >
 6 待续
+
+# 4月19日
+1 yolo-v3训练
+>
+2 YOLO-论文
+>
+3 YOLO源代码
+>
+4 LEETCODE
+>
+5 《用python解决数据结构和算法>>
+>
+6 待续
