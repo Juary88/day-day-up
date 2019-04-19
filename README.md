@@ -1196,3 +1196,7 @@ https://blog.csdn.net/ouening/article/details/71079535
 2 [docker tensorflow](https://github.com/Ceruleanacg/Personae/issues/14）
 >
 3 [nvidia-docker安装](https://blog.csdn.net/A632189007/article/details/78801166)
+
+# 4月19日
+1 [yolo系列](https://zhuanlan.zhihu.com/p/46691043)
+>
