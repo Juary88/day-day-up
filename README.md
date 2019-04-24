@@ -1202,3 +1202,36 @@ https://blog.csdn.net/ouening/article/details/71079535
 >
 2 [yolo系列](https://www.jianshu.com/p/d13ae1055302)
 >
+
+# 4月24日
+1 567. Permutation in String
+###
+    class Solution:
+    """
+    滑动窗口法，时间复杂度O(l1+26∗(l2−l1),l1是s1的长度,l2是s2的长度
+    """
+    def match(self, s1, s2):
+        for i in range(26):
+            if s1[i] != s2[i]:
+                return False
+        return True
+
+    def checkInclusion(self, s1, s2):
+        """
+        :type s1: str
+        :type s2: str
+        :rtype: bool
+        """
+        if len(s1) > len(s2):
+            return False
+        list1 = [0 for i in range(26)]
+        list2 = [0 for i in range(26)]
+        for i in range(len(s1)):
+            list1[ord(s1[i]) - ord('a')] += 1
+            list2[ord(s2[i]) - ord('a')] += 1
+        for i in range(len(s2) - len(s1)):
+            if self.match(list1, list2):
+                return True
+            list2[ord(s2[i + len(s1)]) - ord('a')] += 1
+            list2[ord(s2[i]) - ord('a')] -= 1
+        return self.match(list1, list2)
