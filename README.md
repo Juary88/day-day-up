@@ -1235,3 +1235,20 @@ https://blog.csdn.net/ouening/article/details/71079535
             list2[ord(s2[i + len(s1)]) - ord('a')] += 1
             list2[ord(s2[i]) - ord('a')] -= 1
         return self.match(list1, list2)
+ >
+ 2 230. Kth Smallest Element in a BST
+ ###
+    class Solution(object):
+    def traverse(self, root, arr, k):
+        if len(arr) == k:
+            return arr
+        if root.left != None:
+            self.traverse(root.left, arr, k)
+        arr.append(root.val)
+        if root.right != None:
+            self.traverse(root.right, arr, k)
+        return arr 
+
+    def kthSmallest(self, root, k):
+        ret_list = self.traverse(root, [], k)        
+        return ret_list[k-1] 
