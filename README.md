@@ -1270,3 +1270,17 @@ https://blog.csdn.net/ouening/article/details/71079535
             self.res = node.val
             return
         self.helper(node.right)
+ >
+ ###
+    def kthSmallest(root, k):
+        stack = []
+        while root or stack:
+            while root:
+                stack.append(root)
+                root = root.left
+            root = stack.pop()
+            k -= 1
+            if k == 0:
+                return root.val
+            root = root.right
+ 
