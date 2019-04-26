@@ -1292,4 +1292,28 @@ https://blog.csdn.net/ouening/article/details/71079535
 # 4月26日
 1 [docker images删除](https://www.cnblogs.com/q4486233/p/6482711.html)
 >
-2
+2 
+### 55 jump Game
+>
+不管每一步怎么跳，我都跳到最后，跳到不能跳为止。 
+比如我们用一个变量G，来记录我能跳到的最后的位置。对第i步来说，从第i个位置出发的最远是nums[i]+i那么我们的G=max(G,nums[i]+i) 
+如果在某一步i>G，也就是说，前面能跳到的最远距离跳不到i，那就肯定失败。 
+如果最终能跳到最后一步就返回成功。
+>
+    class Solution(object):
+        def canJump(self, nums):
+            """
+            :type nums: List[int]
+            :rtype: bool
+            """
+            L = len(nums)
+            if L==0:
+                return False
+            G = nums[0]
+            for i in range(1,L):
+                if G<i:
+                    return False
+                G=max(G, nums[i]+i)
+                if G>=L-1:
+                    return True
+            return True
