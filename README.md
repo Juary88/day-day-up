@@ -1321,3 +1321,7 @@ https://blog.csdn.net/ouening/article/details/71079535
 ### 4月28日
 1 [nlp系列](https://blog.csdn.net/app_12062011/article/category/8102623)
 >
+
+### 4月30日
+1 detectron 注意xml不要utf-8,不要中文保存路径。
+
