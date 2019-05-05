@@ -1325,3 +1325,9 @@ https://blog.csdn.net/ouening/article/details/71079535
 ### 4月30日
 1 detectron 注意xml不要utf-8,不要中文保存路径。
 
+# 5月5日
+1 [超参数优化](https://roamanalytics.com/2016/09/15/optimizing-the-hyperparameter-of-which-hyperparameter-optimizer-to-use/#Packages)
+>
+2 [xgboost调参](https://www.cnblogs.com/mfryf/p/6293814.html)
+>
+3 [Randomsearch](https://cloud.tencent.com/developer/ask/124273)
