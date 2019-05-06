@@ -1336,3 +1336,5 @@ https://blog.csdn.net/ouening/article/details/71079535
 1 [透视表，交叉表](https://blog.csdn.net/bqw18744018044/article/details/80015840)
 >
 2 [python算法数据结构](https://github.com/TheAlgorithms/Python)
+>
+3 [docker安装tensorflow-gpu](https://tensorflow.google.cn/install/docker)
