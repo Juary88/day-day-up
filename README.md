@@ -1338,3 +1338,31 @@ https://blog.csdn.net/ouening/article/details/71079535
 2 [python算法数据结构](https://github.com/TheAlgorithms/Python)
 >
 3 [docker安装tensorflow-gpu](https://tensorflow.google.cn/install/docker)
+
+# 5月17日
+1 ###
+    class Solution:
+        def coinChange(self,coins, amount):
+            """
+            :type coins: List[int]
+            :type amount: int
+            :rtype: int
+            """
+
+
+            if amount == 0:
+                return 0
+            Max = float('inf')
+            result = [Max] * (amount + 1)
+            result[0] = 0
+            for i in range(1,amount + 1):
+                for j in coins:
+                    if i >= j:
+                        result[i] = min(result[i],result[i-j] + 1)
+
+        #         print('i',i)
+
+            if result[amount] == Max:
+                return -1
+            else:
+                return result[-1]
