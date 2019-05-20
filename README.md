@@ -1375,3 +1375,5 @@ https://blog.csdn.net/ouening/article/details/71079535
  3 [https://zhuanlan.zhihu.com/p/37601161](注意力机制理解)
  >
  4 [https://www.jianshu.com/p/c94909b835d6](注意力机制理解2)
+>
+5  [https://www.jianshu.com/u/511ba5d71aef](机器学习面试博客)
