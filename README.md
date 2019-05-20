@@ -1371,3 +1371,7 @@ https://blog.csdn.net/ouening/article/details/71079535
  1 [https://github.com/geekinglcq/CDCS](比赛代码)
  >
  2 [https://github.com/fighting41love/funNLP](nlp)
+ >
+ 3 [https://zhuanlan.zhihu.com/p/37601161](注意力机制理解)
+ >
+ 
