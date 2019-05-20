@@ -1368,16 +1368,16 @@ https://blog.csdn.net/ouening/article/details/71079535
                 return result[-1]
  
  # 5月18日
- 1 [https://github.com/geekinglcq/CDCS](比赛代码)
+ 1 [比赛代码https://github.com/geekinglcq/CDCS]
  >
- 2 [https://github.com/fighting41love/funNLP](nlp)
+ 2 [nlphttps://github.com/fighting41love/funNLP]
  >
- 3 [https://zhuanlan.zhihu.com/p/37601161](注意力机制理解)
+ 3 [(注意力机制理解)https://zhuanlan.zhihu.com/p/37601161]
  >
- 4 [https://www.jianshu.com/p/c94909b835d6](注意力机制理解2)
+ 4 [(注意力机制理解2)https://www.jianshu.com/p/c94909b835d6]
  >
- 5 [https://www.jianshu.com/u/511ba5d71aef](机器学习面试博客)
+ 5 [(机器学习面试博客)https://www.jianshu.com/u/511ba5d71aef]
  > 
- 6 [https://www.cnblogs.com/softzrp/p/6776398.html](rnn与lstm)
+ 6 [(rnn与lstm)https://www.cnblogs.com/softzrp/p/6776398.html]
  >
  
