@@ -1384,4 +1384,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 # 5月21日
 1 [基于互信息和左右信息熵的短语提取](https://www.jianshu.com/p/ceac583ec1f7)
 >
-2 
+2 [python3实现互信息和左右熵的新词发现]（https://www.jianshu.com/p/e9313fd692ef）
+>
+3 
