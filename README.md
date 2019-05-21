@@ -1381,3 +1381,7 @@ https://blog.csdn.net/ouening/article/details/71079535
  6 [(rnn与lstm)https://www.cnblogs.com/softzrp/p/6776398.html]
  >
  
+# 5月21日
+1 [基于互信息和左右信息熵的短语提取](https://www.jianshu.com/p/ceac583ec1f7)
+>
+2 
