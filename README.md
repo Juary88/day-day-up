@@ -1390,4 +1390,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 # 5月22日
 1 [logistic 伯努利分布、指数分布理解](https://www.jianshu.com/p/a8d6b40da0cf)
 >
-2 
+2 [方差、样本方差、彻底理解样本方差为何除以n-1](https://blog.csdn.net/hearthougan/article/details/77859173)
+>
+3
