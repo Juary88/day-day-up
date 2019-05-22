@@ -1392,4 +1392,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 >
 2 [方差、样本方差、彻底理解样本方差为何除以n-1](https://blog.csdn.net/hearthougan/article/details/77859173)
 >
-3
+3 [统计学习资料](https://www.cnblogs.com/think-and-do/p/6504272.html)
+>
+
