@@ -1394,4 +1394,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 >
 3 [统计学习资料](https://www.cnblogs.com/think-and-do/p/6504272.html)
 >
+4 [反卷积、上采样](https://blog.csdn.net/nijiayan123/article/details/79416764)
+>
 
