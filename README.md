@@ -1386,4 +1386,8 @@ https://blog.csdn.net/ouening/article/details/71079535
 >
 2 [python3实现互信息和左右熵的新词发现]（https://www.jianshu.com/p/e9313fd692ef）
 >
-3 
+
+# 5月22日
+1 [logistic 伯努利分布、指数分布理解](https://www.jianshu.com/p/a8d6b40da0cf)
+>
+2 
