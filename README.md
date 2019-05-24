@@ -1401,4 +1401,6 @@ https://blog.csdn.net/ouening/article/details/71079535
 # 5月24日
 1 [pytorch 基本网络架构](https://www.cnblogs.com/shenpings1314/p/10468418.html)
 >
-2
+2 [行人识别](https://www.jiqizhixin.com/articles/2018-09-04-7)
+>
+3
