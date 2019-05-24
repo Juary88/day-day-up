@@ -1397,3 +1397,8 @@ https://blog.csdn.net/ouening/article/details/71079535
 4 [反卷积、上采样](https://blog.csdn.net/nijiayan123/article/details/79416764)
 >
 5 [fpn](https://blog.csdn.net/u014380165/article/details/72890275/)
+
+# 5月24日
+1 [pytorch 基本网络架构](https://www.cnblogs.com/shenpings1314/p/10468418.html)
+>
+2
