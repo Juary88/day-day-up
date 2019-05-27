@@ -1403,4 +1403,8 @@ https://blog.csdn.net/ouening/article/details/71079535
 >
 2 [行人识别](https://www.jiqizhixin.com/articles/2018-09-04-7)
 >
-3
+
+# 5月27日
+1 [fast-rcnn](https://blog.csdn.net/Katherine_hsr/article/details/80363191)
+>
+2
