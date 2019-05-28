@@ -1413,4 +1413,11 @@ https://blog.csdn.net/ouening/article/details/71079535
 >
 4 [python装饰器](https://www.liaoxuefeng.com/wiki/897692888725344/923030547069856)
 >
-5
+5 [python装饰器更详细的解释](https://www.cnblogs.com/cicaday/p/python-decorator.html)
+
+# 5月28日
+1 [删除清华镜像源](https://blog.csdn.net/weixin_39278265/article/details/84782550)
+>
+2 [中科大镜像](https://www.jianshu.com/p/363eff5842d4)
+>
+3 
