@@ -1420,4 +1420,4 @@ https://blog.csdn.net/ouening/article/details/71079535
 >
 2 [中科大镜像](https://www.jianshu.com/p/363eff5842d4)
 >
-3 
+3 [conda跟新gcc到4.9](https://blog.csdn.net/xiamentingtao/article/details/78376419)
