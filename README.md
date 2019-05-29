@@ -1423,8 +1423,9 @@ https://blog.csdn.net/ouening/article/details/71079535
 3 [conda跟新gcc到4.9](https://blog.csdn.net/xiamentingtao/article/details/78376419)
 
 # 5月29日
-1 ###
-    [root@DS-VM-Node239 ~]# yum install centos-release-scl -y
-    [root@DS-VM-Node239 ~]# yum install devtoolset-3-toolchain -y
-    [root@DS-VM-Node239 ~]# scl enable devtoolset-3 bash
-    [root@DS-VM-Node239 ~]# gcc --version
+1   gcc 到4.9
+    ### 
+        [root@DS-VM-Node239 ~]# yum install centos-release-scl -y
+        [root@DS-VM-Node239 ~]# yum install devtoolset-3-toolchain -y
+        [root@DS-VM-Node239 ~]# scl enable devtoolset-3 bash
+        [root@DS-VM-Node239 ~]# gcc --version   
