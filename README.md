@@ -1421,3 +1421,10 @@ https://blog.csdn.net/ouening/article/details/71079535
 2 [中科大镜像](https://www.jianshu.com/p/363eff5842d4)
 >
 3 [conda跟新gcc到4.9](https://blog.csdn.net/xiamentingtao/article/details/78376419)
+
+# 5月29日
+1 ###
+    [root@DS-VM-Node239 ~]# yum install centos-release-scl -y
+    [root@DS-VM-Node239 ~]# yum install devtoolset-3-toolchain -y
+    [root@DS-VM-Node239 ~]# scl enable devtoolset-3 bash
+    [root@DS-VM-Node239 ~]# gcc --version
