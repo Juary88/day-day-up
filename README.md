@@ -1433,21 +1433,24 @@ https://blog.csdn.net/ouening/article/details/71079535
 # 5月30日
 1 [python深度拷贝](https://www.cnblogs.com/hokky/p/8476698.html)
 >
-2 ###
-        #对犯罪类别:Category; 用LabelEncoder进行编号  
-leCrime = preprocessing.LabelEncoder()
-crime = leCrime.fit_transform(train.Category)#39种犯罪类型  
-#用get_dummies因子化星期几、街区、小时等特征  
-days=pd.get_dummies(train.DayOfWeek)
-district = pd.get_dummies(train.PdDistrict)
-hour = train.Dates.dt.hour
-hour = pd.get_dummies(hour)
-#组合特征  
-trainData = pd.concat([hour, days, district], axis = 1) #将特征进行横向组合  
-trainData['crime'] = crime#追加'crime'列  
-days = pd.get_dummies(test.DayOfWeek)
-district = pd.get_dummies(test.PdDistrict)
-hour = test.Dates.dt.hour
-hour = pd.get_dummies(hour)
-testData = pd.concat([hour, days, district], axis=1)
-trainData
+2 ### 列变行
+          
+          
+          
+                  #对犯罪类别:Category; 用LabelEncoder进行编号  
+    leCrime = preprocessing.LabelEncoder()
+    crime = leCrime.fit_transform(train.Category)#39种犯罪类型  
+    #用get_dummies因子化星期几、街区、小时等特征  
+    days=pd.get_dummies(train.DayOfWeek)
+    district = pd.get_dummies(train.PdDistrict)
+    hour = train.Dates.dt.hour
+    hour = pd.get_dummies(hour)
+    #组合特征  
+    trainData = pd.concat([hour, days, district], axis = 1) #将特征进行横向组合  
+    trainData['crime'] = crime#追加'crime'列  
+    days = pd.get_dummies(test.DayOfWeek)
+    district = pd.get_dummies(test.PdDistrict)
+    hour = test.Dates.dt.hour
+    hour = pd.get_dummies(hour)
+    testData = pd.concat([hour, days, district], axis=1)
+    trainData
