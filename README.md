@@ -1470,4 +1470,6 @@ https://blog.csdn.net/ouening/article/details/71079535
                 fast = fast.next.next
             return slow
  >
- 2 
+ 2 [剑指offer](https://www.cnblogs.com/yanmk/p/9130681.html)
+ >
+ 3 
