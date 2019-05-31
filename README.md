@@ -1454,3 +1454,20 @@ https://blog.csdn.net/ouening/article/details/71079535
     hour = pd.get_dummies(hour)
     testData = pd.concat([hour, days, district], axis=1)
     trainData
+
+# 5月31日
+1 [返回数组中间的数]
+###
+    class Solution(object):
+        def middleNode(self, head):
+            """
+            :type head: ListNode
+            :rtype: ListNode
+            """
+            slow = fast = head
+            while fast != None and fast.next != None:
+                slow = slow.next
+                fast = fast.next.next
+            return slow
+ >
+ 2 
