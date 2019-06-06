@@ -1472,4 +1472,8 @@ https://blog.csdn.net/ouening/article/details/71079535
  >
  2 [剑指offer](https://www.cnblogs.com/yanmk/p/9130681.html)
  >
- 3 
+
+# 6月6日
+1 [单因素方差分析](https://www.cnblogs.com/violetchan/p/10918525.html)
+>
+2 
