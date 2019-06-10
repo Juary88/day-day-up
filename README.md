@@ -1476,4 +1476,16 @@ https://blog.csdn.net/ouening/article/details/71079535
 # 6月6日
 1 [单因素方差分析](https://www.cnblogs.com/violetchan/p/10918525.html)
 >
-2 
+
+# 6月10日
+1 
+R-CNN 采用的是 IoU 的阈值，这个 threshold 取 0.3，如果一个区域与 Ground tureth 的 IoU 值低于设定的阈值，那么可以讲它看成是 Negetive.
+
+IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0.4,0.5} 的数值组合的。
+
+而且，这个数值至关重要，如果 threshold 取值为 0.5,mAP 指标直接下降 5 个点，如果取值为 0，mAP 下降 4 个点。
+
+一旦特征抽取成功，R-CNN 会用 SVM 去识别每个区域的类别，但这需要优化。
+
+因为训练的数据太大，不可能一下子填充到电脑内存当中，R-CNN 作者采取了一种叫做 Hard negetive mining 的手段。
+
