@@ -1489,3 +1489,7 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 
 因为训练的数据太大，不可能一下子填充到电脑内存当中，R-CNN 作者采取了一种叫做 Hard negetive mining 的手段。
 
+# 6月17日
+1 [数据清洗缺失值](https://cloud.tencent.com/developer/article/1430000)
+>
+2 
