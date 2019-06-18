@@ -1492,4 +1492,9 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 # 6月17日
 1 [数据清洗缺失值](https://cloud.tencent.com/developer/article/1430000)
 >
-2 
+2 [特征工程]（https://www.jqr.com/article/000397）
+
+>
+
+# 6月18日
+
