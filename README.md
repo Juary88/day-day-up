@@ -1499,4 +1499,8 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 # 6月18日
 1 [课程视频制作](https://blog.csdn.net/ffffffff8/article/details/84033769)
 >
-2 
+
+# 6月24日
+1 gcc更新（https://blog.csdn.net/u010103202/article/details/89060538）
+>
+
