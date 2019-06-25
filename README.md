@@ -1504,3 +1504,36 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 1 gcc更新（https://blog.csdn.net/u010103202/article/details/89060538）
 >
 
+# 6月25日
+1 Python copy()
+    copy dic key not value
+###
+        # -*- coding: utf-8 -*-
+    """
+    Created on Tue Jun 25 13:53:11 2019
+
+    @author: root
+    """
+    import pandas as pd
+    import numpy as np
+    s = {}
+    m = []
+    s['a'] = 1
+    s['b'] = 2
+    v = s.copy()
+    m.append(v)
+    s['a'] = 3
+    s['b'] = 4
+    v = s.copy()
+    m.append(v)
+
+    s['a'] = 5
+    s['b'] = 6
+    v = s.copy()
+    m.append(v)
+
+    s['a'] = 7
+    s['b'] = 8
+    v = s.copy()
+    m.append(v)
+    m = pd.DataFrame(m)
