@@ -1547,3 +1547,6 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
     sudo dpkg -i /tmp/nvidia-docker*.deb && rm /tmp/nvidia-docker*.deb
 >
 3 [pytorch 各个模型fine-tune](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html#comparison-with-model-trained-from-scratch)
+>
+4 [torchvision 模型代码](https://github.com/pytorch/vision/tree/master/torchvision)
+>
