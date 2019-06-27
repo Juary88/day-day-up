@@ -1551,3 +1551,8 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 4 [torchvision 模型代码](https://github.com/pytorch/vision/tree/master/torchvision)
 >
 5 [pytorch inception 两个输出 关掉一个](http://blog.sina.com.cn/s/blog_4b6a6ae50102yda3.html)
+
+# 6月27日
+1 [fc,maxpool,avgpool比较](https://www.cnblogs.com/hutao722/p/10008581.html)
+>
+2
