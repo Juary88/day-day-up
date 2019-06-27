@@ -1557,3 +1557,6 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 >
 2 maxpooling2d -> output [Npne,7,7,512]
 > globalavgpooling -> output [None.512]
+>
+3 [resnext](https://zhuanlan.zhihu.com/p/32913695)
+>
