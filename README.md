@@ -1566,4 +1566,6 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 >
 2 [xgboost feature importance](https://www.cnblogs.com/haobang008/p/5929378.html)
 >
-
+3 [sppnet 从原图映射到featuremap](https://blog.csdn.net/liuxiaoheng1992/article/details/81775007)
+>
+4
