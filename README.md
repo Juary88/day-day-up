@@ -1560,3 +1560,8 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 >
 3 [resnext](https://zhuanlan.zhihu.com/p/32913695)
 >
+
+# 7月1日
+1 [xgboost feature_importance](https://stackoverflow.com/questions/37627923/how-to-get-feature-importance-in-xgboost)
+>
+2
