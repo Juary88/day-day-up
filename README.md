@@ -1568,4 +1568,14 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 >
 3 [sppnet 从原图映射到featuremap](https://blog.csdn.net/liuxiaoheng1992/article/details/81775007)
 >
-4
+
+# 7月3日
+1 ###
+        深度学习中经常看到epoch、 iteration和batchsize，下面按自己的理解说说这三个的区别：
+    （1）batchsize：批大小。在深度学习中，一般采用SGD训练，即每次训练在训练集中取batchsize个样本训练；
+    （2）iteration：1个iteration等于使用batchsize个样本训练一次；
+    （3）epoch：1个epoch等于使用训练集中的全部样本训练一次；
+    举个例子，训练集有1000个样本，batchsize=10，那么：
+    训练完整个样本集需要：
+    100次iteration，1次epoch。
+    关于batchsize可以看看这里
