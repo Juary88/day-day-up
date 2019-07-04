@@ -1579,3 +1579,13 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
     训练完整个样本集需要：
     100次iteration，1次epoch。
     关于batchsize可以看看这里
+
+# 7月4日
+1 ###
+        import numpy as np
+        a = None
+        b = [[1,2,3]]
+        print(b == None)
+
+        b = np.array([[1,2,3]])
+        print(b == None)
