@@ -1596,3 +1596,8 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 
 # 7月17日
 1 rpn:conv->slide-window->anchors
+
+# 7月24日
+1 [直观理解理解cnn]（https://www.jianshu.com/p/fc9175065d87）
+>
+2 [感受野计算](https://iphysresearch.github.io/posts/receptive_field.html)
