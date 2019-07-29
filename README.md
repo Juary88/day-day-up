@@ -1601,3 +1601,7 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 1 [直观理解理解cnn]（https://www.jianshu.com/p/fc9175065d87）
 >
 2 [感受野计算](https://iphysresearch.github.io/posts/receptive_field.html)
+
+# 7月29日
+1 [安装TensorFlow 2.0](pip install -i https://pypi.tuna.tsinghua.edu.cn/simple tensorflow==2.0.0-beta1)
+>
