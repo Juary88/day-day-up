@@ -1609,4 +1609,4 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 # 7月30日
 1 [多标签分类](https://github.com/ItchyHiker/Multi_Label_Classification_Keras)
 >
-2
+2 [培训博客](https://www.cbedai.net/u011630575/)
