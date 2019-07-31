@@ -1614,4 +1614,6 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 # 7月31日
 1 [pytorch 交叉熵包含了softmax](https://blog.csdn.net/jiangpeng59/article/details/79583292)
 >
-2
+2 [交叉熵损失函数理解](https://www.cnblogs.com/aijianiula/p/9460842.html)
+>
+3 
