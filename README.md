@@ -1621,3 +1621,5 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 
 # 8月8日
 1 [可变分离卷积，以及1x1 conv 计算时将多通道信息融合](https://zhuanlan.zhihu.com/p/32746221)
+>
+2 [可变卷积](https://zhuanlan.zhihu.com/p/28749411)
