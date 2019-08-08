@@ -1617,3 +1617,7 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 2 [交叉熵损失函数理解](https://www.cnblogs.com/aijianiula/p/9460842.html)
 >
 3 [两种交叉熵损失函数区别](https://blog.csdn.net/u012436149/article/details/69660214)
+
+
+# 8月8日
+1 [可变分离卷积，以及1x1 conv 计算时将多通道信息融合](https://zhuanlan.zhihu.com/p/32746221)
