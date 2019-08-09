@@ -1623,3 +1623,13 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 1 [可变分离卷积，以及1x1 conv 计算时将多通道信息融合](https://zhuanlan.zhihu.com/p/32746221)
 >
 2 [可变卷积](https://zhuanlan.zhihu.com/p/28749411)
+
+# 8月9日
+1 
+    One-stage一步搞定分类和bbox问题。
+
+    而Two-stage则分为两步：
+
+    1.根据区域是foreground，还是background，生成bbox。
+
+    2.对bbox进行分类和细调。
