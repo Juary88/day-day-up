@@ -1633,3 +1633,8 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
     1.根据区域是foreground，还是background，生成bbox。
 
     2.对bbox进行分类和细调。
+
+# 8月12日
+1 [activation-gram 热力图](https://blog.csdn.net/wawaku/article/details/87854875)
+>
+2 
