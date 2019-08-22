@@ -1637,4 +1637,14 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 # 8月12日
 1 [activation-gram 热力图](https://blog.csdn.net/wawaku/article/details/87854875)
 >
-2 
+
+# 8月21日
+1 [cam原理](https://www.jianshu.com/p/1d7b5c4ecb93)
+>
+2 [Residual Attention Network for Image Classification](https://www.jianshu.com/p/eb95c369fede)
+>
+
+# 8月22日
+1 [西瓜书公式推导](https://datawhalechina.github.io/pumpkin-book/#/chapter4/chapter4)
+>
+2   
