@@ -1656,3 +1656,7 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 1 
     add对张量执行求和运算
     concatenate对张量进行串联运算
+
+>
+2 [efficientnet]（https://www.jianshu.com/p/afbf9fcef75f）
+>
