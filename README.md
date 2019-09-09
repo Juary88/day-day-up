@@ -1663,3 +1663,7 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 
 # 8月30日
 1 [faster-rcnn](https://zhuanlan.zhihu.com/p/56710152)
+
+# 9月9日
+1 [细粒度图像分析进展综述]（https://zhuanlan.zhihu.com/p/24738319）
+>
