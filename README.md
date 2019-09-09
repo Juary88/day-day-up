@@ -1667,3 +1667,6 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 # 9月9日
 1 [细粒度图像分析进展综述]（https://zhuanlan.zhihu.com/p/24738319）
 >
+2 [详细学习细粒度](https://mp.weixin.qq.com/s?__biz=MzU4MjQ3MDkwNA==&mid=2247487579&idx=1&sn=38976c117c36eca62c85cfe80ac440fd&chksm=fdb68dcccac104da5ecec8cc90cc9b3bd85e2875457abab99661e74d63d1a34d2f21f0990428&scene=21#wechat_redirect)
+>
+3
