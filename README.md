@@ -1673,4 +1673,5 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 # 9月11日
 1 [smoothl1](https://blog.csdn.net/weixin_41940752/article/details/93159710)
 >
-2
+2 [行人识别](https://blog.csdn.net/wfei101/article/details/99175512)
+
