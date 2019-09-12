@@ -1675,3 +1675,9 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 >
 2 [行人识别](https://blog.csdn.net/wfei101/article/details/99175512)
 
+# 9月12日
+1 [faster-rcnn]（https://www.cnblogs.com/wangyong/p/8513563.html）
+>
+2 anchor box根据feature map每一个像素点对应到原图上生成，再去计算偏移量，加上最后分类回归会算2次。
+>
+3   
