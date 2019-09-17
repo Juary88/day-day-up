@@ -1680,4 +1680,8 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 >
 2 anchor box根据feature map每一个像素点对应到原图上生成，再去计算偏移量，加上最后分类回归会算2次。
 >
-3   
+
+# 9月17日
+1 [TensorFlow安装](http://www.bubuko.com/infodetail-3114663.html)
+>
+2
