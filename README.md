@@ -1693,4 +1693,6 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 1 一个迭代iteration就是一次训练(batchsize张图片参与的训练)完成，下一个迭代就会选取另外的batchsize张图片进行训练
 一个epoch是完成数据集全部样本的训练。
 >
-2
+
+# 10月22日
+1 [mmdetection解锁focal loss](https://blog.csdn.net/syysyf99/article/details/96574325)
