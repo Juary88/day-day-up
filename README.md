@@ -1696,3 +1696,4 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 
 # 10月22日
 1 [mmdetection解锁focal loss](https://blog.csdn.net/syysyf99/article/details/96574325)
+![github](https://github.com/Juary88/day-day-up/blob/master/pic/focal_loss.jpg)
