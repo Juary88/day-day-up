@@ -1697,3 +1697,12 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 # 10月22日
 1 [mmdetection解锁focal loss](https://blog.csdn.net/syysyf99/article/details/96574325)
 ![github](https://github.com/Juary88/day-day-up/blob/master/pic/focal_loss.jpg)
+
+# 10月23日
+1 [Python __repr__()方法】（http://c.biancheng.net/view/2367.html）
+>
+2 [Python __call__方法]
+>
+3 docker run --gpus all  -d -p 8889:8888 -v /home/root/tensorflow-tensorlog:/tensorlog -v /home/shuzhilian/tensorflow-dataset:/notebooks -v /var/tensorflow-dataset:/mnt -e PASSWORD=233233 docker.io/keineahnung2345/tensorflow-opencv:test2
+>
+
