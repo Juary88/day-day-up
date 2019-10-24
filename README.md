@@ -1706,3 +1706,5 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 3 docker run --gpus all  -d -p 8889:8888 -v /home/root/tensorflow-tensorlog:/tensorlog -v /home/shuzhilian/tensorflow-dataset:/notebooks -v /var/tensorflow-dataset:/mnt -e PASSWORD=233233 docker.io/keineahnung2345/tensorflow-opencv:test2
 > [mmdetection trick]（https://blog.csdn.net/sinat_29963957/article/details/89689759#comments）
 
+# 10月24日
+1 [!pip install torch  torchvision -i https://pypi.tuna.tsinghua.edu.cn/simple --default-timeout=1000]
