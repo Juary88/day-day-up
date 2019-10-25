@@ -1708,3 +1708,7 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 
 # 10月24日
 1 [!pip install torch  torchvision -i https://pypi.tuna.tsinghua.edu.cn/simple --default-timeout=1000]
+>
+2 ###
+        sys.path.append("..") # 为了导入上层目录的d2lzh_pytorch
+        import d2lzh_pytorch as d2l
