@@ -1712,3 +1712,8 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 2 ###
         sys.path.append("..") # 为了导入上层目录的d2lzh_pytorch
         import d2lzh_pytorch as d2l
+
+# 10月28日
+1 [你画我猜分类模型](https://tangshusen.me/2018/12/05/kaggle-doodle-reco/)
+>
+2 
