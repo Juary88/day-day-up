@@ -1720,4 +1720,4 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 # 10月31日
 1 [xgboost讲解](https://blog.csdn.net/v_JULY_v/article/details/81410574)
 >
-2
+2 [天池比赛](https://tianchi.aliyun.com/competition/gameList/activeList)
