@@ -1716,4 +1716,8 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 # 10月28日
 1 [你画我猜分类模型](https://tangshusen.me/2018/12/05/kaggle-doodle-reco/)
 >
-2 
+
+# 10月31日
+1 [xgboost讲解](https://blog.csdn.net/v_JULY_v/article/details/81410574)
+>
+2
