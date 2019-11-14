@@ -1721,3 +1721,9 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 1 [xgboost讲解](https://blog.csdn.net/v_JULY_v/article/details/81410574)
 >
 2 [天池比赛](https://tianchi.aliyun.com/competition/gameList/activeList)
+
+# 11月14日
+1 [mmdetection](https://blog.csdn.net/gaoyi135/article/details/90613895)
+>
+2 [mmdetection](https://heary.cn/posts/mmdetection-%E5%9F%BA%E4%BA%8EPyTorch%E7%9A%84%E5%BC%80%E6%BA%90%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F/)
+>
