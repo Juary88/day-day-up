@@ -1730,4 +1730,52 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 # 11月19日
 1 [mmdetection添加focal_loss](https://blog.csdn.net/weixin_42096202/article/details/90737708)
 >
-2 
+
+# 11月20日
+1 数据分析：长宽比列聚类
+>
+2 ###
+     backbone=dict(
+        type='ResNet',
+        depth=50,
+        num_stages=4,
+        out_indices=(0, 1, 2, 3),
+        frozen_stages=1,
+        style='pytorch',
+        dcn=dict(   #在最后一个阶段加入可变形卷积 改进点1
+            modulated=False, deformable_groups=1, fallback_on_stride=False),
+        stage_with_dcn=(False, False, False, True)),
+>
+3 ###
+          rpn_head=dict(
+        type='RPNHead',
+        in_channels=256,
+        feat_channels=256,
+        anchor_scales=[8],
+        anchor_ratios=[0.02, 0.05, 0.1, 0.5, 1.0, 2.0, 10.0, 20.0, 50.0], #根据样本瑕疵尺寸分布，修改anchor的长宽比。 改进点2
+>
+4 ###
+    loss_cls=dict(
+            type='CrossEntropyLoss', use_sigmoid=True, loss_weight=1.0),   #此处可替换成focalloss
+        loss_bbox=dict(type='SmoothL1Loss', beta=1.0 / 9.0, loss_weight=1.0)),
+>
+5 ###
+         ignore_iof_thr=-1),
+            sampler=dict(   #默认使用的是随机采样RandomSampler，这里替换成OHEM采样，即每个级联层引入在线难样本学习，改进点3
+                type='OHEMSampler',
+                num=512,
+                pos_fraction=0.25,
+                neg_pos_ub=-1,
+                add_gt_as_proposals=True),
+            pos_weight=-1,
+            debug=False)
+>
+6 ###
+     imgs_per_gpu=2,  #每张gpu训练多少张图片  batch_size = gpu_num(训练使用gpu数量) * imgs_per_gpu,学习率的设置尤为关键：lr = 0.00125*batch_size
+>
+7 [mmdetection使用trick](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.9.43b46448r9maJN&postId=74264)
+
+
+        
+ 
+
