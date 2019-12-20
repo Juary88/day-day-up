@@ -1775,7 +1775,14 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 >
 7 [mmdetection使用trick](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.9.43b46448r9maJN&postId=74264)
 
+# 12月20日
+>
+1- Are u ok: OHEM + SWA + DCN + OCNet
+2-禾思科技： SWA + DCN + Generalized-RCNN + Dialted FPN + ROI Align + Focal Loss + IOU_AVG
+3-都都都都都都： SWA + Dialted FPN + DPA+ MLBP + HEF + DB
+4-打怪升级： box stacking + 结合MaskRcnn + caffe2go
+5-数之联： OHEM + Scale Normalization + multi-layer Cascade-RCNN
+6-风不动： DCN + ROI Align + batch级OHEM + RPN比例
 
-        
  
 
