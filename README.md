@@ -1791,3 +1791,4 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 1 [pytorch model.named_parameters() ,model.parameters() ,model.state_dict().items()](https://blog.csdn.net/u013548568/article/details/84311099)
 >
 2
+>   使用时，直观上可将layer看成数学概念中的函数，调用layer(input)即可得到input对应的结果。它等价于layers.__call__(input)，在__call__函数中，主要调用的是 layer.forward(x)，另外还对钩子做了一些处理。所以在实际使用中应尽量使用layer(x)而不是使用layer.forward(x)
