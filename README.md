@@ -1807,4 +1807,6 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 >
 1 [仿射变化](https://www.cnblogs.com/happystudyeveryday/p/10547316.html)
 >
-2
+2 [命名实体识别](https://www.jianshu.com/nb/26377152)
+>
+3 [nlp](https://www.jianshu.com/p/7fa260e91382)
