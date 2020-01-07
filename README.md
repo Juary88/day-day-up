@@ -1802,3 +1802,9 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 # 1月2日
 >
 1 [mmdetection文档](https://mmdetection.readthedocs.io/en/latest/INSTALL.html)
+
+# 1月7日
+>
+1 [仿射变化](https://www.cnblogs.com/happystudyeveryday/p/10547316.html)
+>
+2
