@@ -1820,4 +1820,6 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 >
 1 [nlp项目集合](https://liuhuanyong.github.io)
 >
-2 
+
+# 2月4日
+1 [fpn + faster-rcnn图](https://blog.csdn.net/xxradon/article/details/88719270)
