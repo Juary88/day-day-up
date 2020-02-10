@@ -1823,3 +1823,8 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 
 # 2月4日
 1 [fpn + faster-rcnn图](https://blog.csdn.net/xxradon/article/details/88719270)
+
+# 2月10日
+1 [图像融合 垃圾分类项目](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.9.78057195rm77va&postId=83611)
+>
+2 
