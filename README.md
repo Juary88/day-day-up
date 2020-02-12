@@ -1827,4 +1827,6 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 # 2月10日
 1 [图像融合 垃圾分类项目](https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.9.78057195rm77va&postId=83611)
 >
-2 
+
+# 2月12日
+1 [一文搞懂交叉熵](https://blog.csdn.net/tsyccnh/article/details/79163834)
