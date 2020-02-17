@@ -1833,3 +1833,5 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 
 # 2月17日
 1 [numpy中np.max和np.maximum](https://www.cnblogs.com/logo-88/p/9265015.html)
+>
+2 [a[np.newaxis,:]]
