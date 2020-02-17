@@ -1830,3 +1830,6 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 
 # 2月12日
 1 [一文搞懂交叉熵](https://blog.csdn.net/tsyccnh/article/details/79163834)
+
+# 2月17日
+1 [numpy中np.max和np.maximum](https://www.cnblogs.com/logo-88/p/9265015.html)
