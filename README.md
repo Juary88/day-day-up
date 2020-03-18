@@ -1842,3 +1842,6 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 
 # 3月16
 1 分位损失以及各种损失函数（https://cloud.tencent.com/developer/article/1519434）
+
+# 3月18日
+1 多标签分类、命名实体识别(https://github.com/moxiu2012/PJ_NLP)
