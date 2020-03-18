@@ -1845,3 +1845,7 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 
 # 3月18日
 1 多标签分类、命名实体识别(https://github.com/moxiu2012/PJ_NLP)
+>
+2 合页损失函数(https://blog.csdn.net/real_myth/article/details/52582693)
+>
+3
