@@ -1,0 +1,49 @@
+liudingyi@unionbigdata.com
+
+
+
+https://github.com/wucng/TensorExpand/blob/master/TensorExpand/Object%20detection/Data_interface/MSCOCO/labelme2COCO.py
+
+docker run --gpus all  -d -p 8889:8888 -v /home/root/tensorflow-tensorlog:/tensorlog -v /data/sdv2/SY_array_poc:/notebooks -v /data/sdv2/SY_array_poc:/mnt -e PASSWORD=233233 docker.io/keineahnung2345/tensorflow-opencv:test2 PASSWORD=233233 docker.io/keineahnung2345/tensorflow-opencv:test2
+
+nvidia-docker run -d -p 8889:8888 -v /home/root/tensorflow-tensorlog:/tensorlog -v /home/shuzhilian/tensorflow-dataset:/notebooks -v /var/tensorflow-dataset:/mnt -e PASSWORD=233233 docker.io/keineahnung2345/tensorflow-opencv:test2
+
+watch -n 1 nvidia-smi
+
+nohup /home/shuzhilian/mmdet_v_1/tools/dist_train.sh faster_rcnn_r50_fpn_attention_0010_dcn_1x.py 2 --validate&
+
+###构造coco数据集
+python labelme2coco.py train  data_dataset_coco_train --labels labels.txt
+python labelme2coco.py test  data_dataset_coco_test --labels labels.txt
+
+ftp地址:
+ftp://182.150.44.163:2021
+用户名:hxgd
+密码：hxgd@bigdata!
+nohup /home/shuzhilian/mmdet_v_1/tools/dist_train.sh mask_rcnn_r50_fpn_1x.py 4 --validate &
+
+
+ps x | grep <cmdline> | awk '{print $1}' | xargs kill
+ps x：获取当前用户的所有进程
+grep <cmdline>：找到已经停止的PyTorch程序的进程，例如你是通过python train.py启动的，那你就需要写grep 'python train.py'
+awk '{print $1}'：获取进程的pid
+xargs kill：杀掉进程，根据需要可能要写成xargs kill -9强制杀掉进程
+
+
+   dict(type='LoadAnnotations', with_bbox=True),
+	dict(type='MinIoURandomCrop', min_ious=(0.4, 0.5, 0.7, 0.9), min_crop_size=0.5, deformation_control=(0.7, 1.0)),
+    dict(type='Resize', img_scale=(960, 830), keep_ratio=True),
+	
+	
+	
+git：上传 建立目录 git clone
+					git init
+					git add .
+					git commit -m "first commit" 
+					git config --global user.email "abcde@qq.com"
+					git config --global user.name "name"
+					git commit -m "first commit"
+					git push -u origin master
+
+
+sudo docker run -it --shm-size=8g --gpus all --name=“use_name” -v /data:/data  images(ID)  /bin/bash
