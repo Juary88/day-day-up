@@ -1856,3 +1856,7 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 1 [矩阵的秩与行列式的几何意义](https://zhuanlan.zhihu.com/p/19609459)
 >
 2 [矩阵的行列式](https://www.matongxue.com/madocs/247.html)
+
+# 5月22日
+1 [如何理解仿射变化](https://www.zhihu.com/question/20666664)
+>
