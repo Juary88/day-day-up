@@ -1861,3 +1861,8 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 1 [如何理解仿射变化](https://www.zhihu.com/question/20666664)
 >
 2 [箱型图等异常值检测](https://zhuanlan.zhihu.com/p/36301532)
+
+# 5月27日
+1 [词向量腾讯详解](https://zhuanlan.zhihu.com/p/143763320)
+>
+2 
