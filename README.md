@@ -1865,4 +1865,4 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 # 5月27日
 1 [词向量腾讯详解](https://zhuanlan.zhihu.com/p/143763320)
 >
-2 
+2 [9大数据结构](https://mp.weixin.qq.com/s/UCjGieNiHoe_QXLJtm0jFA)
