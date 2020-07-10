@@ -7,3 +7,6 @@
 
 2020.7.9
 >[wechat](https://www.cnblogs.com/sui776265233/p/10590628.html)
+
+2020.7.10
+>[python多进程](https://www.cnblogs.com/fugeny/p/9898971.html)
