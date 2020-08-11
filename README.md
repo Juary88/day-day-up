@@ -1872,3 +1872,5 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 >
 2 [目标检测学习路径](https://zhuanlan.zhihu.com/p/156884357)
 >
+3 [embedding 推荐中应用](https://zhuanlan.zhihu.com/p/133392688)
+
