@@ -1874,3 +1874,7 @@ IoU 的 threshold 它不是作者胡乱取值的，而是来自 {0,0.1,0.2,0.3,0
 >
 3 [embedding 推荐中应用](https://zhuanlan.zhihu.com/p/133392688)
 
+# 8月14日
+1 [付费课程制作](https://haokan.baidu.com/v?vid=10234042842089897562&pd=bjh&fr=bjhauthor&type=video)
+>
+2 
